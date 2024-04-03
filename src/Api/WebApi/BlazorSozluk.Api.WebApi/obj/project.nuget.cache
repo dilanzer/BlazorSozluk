@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWSDEcViCU6VY7eKPB43+1s5vfDFRUe8IpYDNW0HKTUYLYV6wt2Tpv2fYQ6h2YGnf0gQBVTAy4jWIeXORi+Sbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d_zer\\source\\repos\\BlazorSozluk\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\BlazorSozluk.Api.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d_zer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\d_zer\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\d_zer\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\d_zer\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\d_zer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\d_zer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
